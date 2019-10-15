@@ -1,4 +1,4 @@
-la=[]
+
 import nltk
 sen="light. youtube"
 
